@@ -1,1 +1,1 @@
-# RNNs-for-Stock-Price-Predictrion
+# RNNs-for-Stock-Price-Prediction
